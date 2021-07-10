@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 0e3511d5cc6101f4693bcfa297afd288
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4935899480183582560
+    second: Sprite_Pets_Glitch Pet 1_0
+  - first:
+      213: 358360323471330909
+    second: Sprite_Pets_Glitch Pet 1_1
+  - first:
+      213: 6369015691926755513
+    second: Sprite_Pets_Glitch Pet 1_2
+  - first:
+      213: -935474244615554640
+    second: Sprite_Pets_Glitch Pet 1_3
+  - first:
+      213: 4645703009644005830
+    second: Sprite_Pets_Glitch Pet 1_4
+  - first:
+      213: -4094226698336084334
+    second: Sprite_Pets_Glitch Pet 1_5
+  - first:
+      213: -2942371228794840500
+    second: Sprite_Pets_Glitch Pet 1_6
+  - first:
+      213: 252976725485175874
+    second: Sprite_Pets_Glitch Pet 1_7
+  - first:
+      213: -4832799034625437844
+    second: Sprite_Pets_Glitch Pet 1_8
+  - first:
+      213: 7510485736259682890
+    second: Sprite_Pets_Glitch Pet 1_9
+  - first:
+      213: 2610974529017454100
+    second: Sprite_Pets_Glitch Pet 1_10
+  - first:
+      213: -6709082021824191490
+    second: Sprite_Pets_Glitch Pet 1_11
+  - first:
+      213: -8244785956497501242
+    second: Sprite_Pets_Glitch Pet 1_12
+  - first:
+      213: 5831569065903474163
+    second: Sprite_Pets_Glitch Pet 1_13
+  - first:
+      213: 2976370271603858988
+    second: Sprite_Pets_Glitch Pet 1_14
+  - first:
+      213: -1888010249332118645
+    second: Sprite_Pets_Glitch Pet 1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 305
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fa06bfc66df7440800000000000000
+      internalID: 4935899480183582560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 222
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e4a16c0d629f400800000000000000
+      internalID: 358360323471330909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8de2ef60a436850800000000000000
+      internalID: 6369015691926755513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 222
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b92181278403f0800000000000000
+      internalID: -935474244615554640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 222
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c94bc5f54ad87040800000000000000
+      internalID: 4645703009644005830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 101
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ed1cf82826e27c0800000000000000
+      internalID: -4094226698336084334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 100
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a9a5ee4f89a27d0800000000000000
+      internalID: -2942371228794840500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2444cf2ddf0c28300800000000000000
+      internalID: 252976725485175874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 8
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fcc4e12e27eecb0800000000000000
+      internalID: -4832799034625437844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 8
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4285602cfa9a3860800000000000000
+      internalID: 7510485736259682890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 9
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e9da7208b0c3420800000000000000
+      internalID: 2610974529017454100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 9
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3a538827d84e2a0800000000000000
+      internalID: -6709082021824191490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 10
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c356d5fad2a49d80800000000000000
+      internalID: -8244785956497501242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 9
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f545502b25ede050800000000000000
+      internalID: 5831569065903474163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 9
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e1bf61ef03e4920800000000000000
+      internalID: 2976370271603858988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pets_Glitch Pet 1_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 8
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b234c6ea07cc5e0800000000000000
+      internalID: -1888010249332118645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
