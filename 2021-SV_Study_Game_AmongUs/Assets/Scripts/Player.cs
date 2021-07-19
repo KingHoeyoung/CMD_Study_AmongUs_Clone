@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public float moveSpeed = 1.0f;
+    public float moveSpeed = 4.0f;
     public Vector3 velocity = Vector3.zero;
     Animator animator; // import Animator as animator
 
